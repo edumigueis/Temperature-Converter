@@ -1,6 +1,10 @@
 # Temperature-Converter
  A temperature converter in Android. Made using Java.
- <img src="sc1.png" align="left" width="55%"/>
+ <p>
+   <img src="sc1.png" align="left" width="50%"/>
+    <img src="sc1.png" align="right" width="50%"/>
+ </p>
+
  ## Features
   This project presents a simple temperature converter, that can convert Celsius temperature to Kelvin or Fahrenheit. The UI was made using XML android interface building mechanisms. Made in Android Studio.
 
