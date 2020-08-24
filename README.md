@@ -1,8 +1,8 @@
 # Temperature-Converter
  A temperature converter in Android. Made using Java.
  <p>
-   <img src="sc1.png" align="left" width="50%"/>
-    <img src="sc1.png" align="right" width="50%"/>
+   <img src="sc1.png" width="45%"/>
+    <img src="sc1.png" width="45%"/>
  </p>
 
  ## Features
